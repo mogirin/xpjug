@@ -1,0 +1,22 @@
+{
+  "name": "xpjug",
+  "version": "1.0.0",
+  "description": "Conference reception bot for Discord with Eventbrite\r mogirinはDiscordとEventbriteを組み合わせたイベントに最適な受付botです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogirin/xpjug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mogirin/xpjug/issues"
+  },
+  "homepage": "https://github.com/mogirin/xpjug#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
