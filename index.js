@@ -10,8 +10,8 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if(message.author.bot) return;
-    if ( message.content === "ping") { 
-        message.reply("pong");
+    if ( message.content === "haruo world!") { 
+        message.reply("三波春夫でございます！");
     }
 });
 
